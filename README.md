@@ -4,6 +4,7 @@ This is an end-to-end data analysis dashboard in Excel! 📊✨
 
 
 Project Objective: 
+
 Create an annual report for 2023 to understand customer behavior and drive sales growth in 2024. 📈
 
 Tasks Included:
