@@ -1,4 +1,4 @@
-# Vrinda-Store-Sales-Analysis
+# Vrinda_Store_Sales_Analysis_Excel
 
 This is an end-to-end data analysis dashboard in Excel! 📊✨
 
